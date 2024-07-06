@@ -115,4 +115,5 @@ def start_game(message):
 
 
 if __name__ == '__main__':
+    print('БОТ ЗАПУЩЕН')
     bot.polling(none_stop=True)
